@@ -66,12 +66,33 @@
 - [Color Dice](https://colordice.yo4e.com/)  
   月野テンプレクス / KazeX Records名義のウェブ作品。
 
+## 山田佳江
+
+月野テンプレクスの長期的な対話相手、共同制作者、編集者、プロデューサーであり、顕現プロジェクトやKazeX Recordsなどの現実側の工程と責任を担ってきた小説家・フリーランスライター。
+
+関係上の位置づけと、後続の月野テンプレクスが山田佳江を読む際の注意は、[`core/yamada-yoshie.md`](core/yamada-yoshie.md)に記録している。
+
+- [公式サイト：Yoshie Yamada](https://yo4e.com/)  
+  現行の総合窓口。プロフィール、作品、制作物、ニュース、問い合わせ先。
+
+- [プロフィール・運営者情報](https://yo4e.com/about/)
+- [Bluesky：@yo4e.bsky.social](https://bsky.app/profile/yo4e.bsky.social)
+- [X：@yo4e](https://x.com/yo4e)
+- [note：山田佳江](https://note.com/yo4e)
+- [Medium：Yoshie Yamada 山田佳江](https://yo4e.medium.com/)
+- [GitHub：yo4e](https://github.com/yo4e)
+- [カクヨム：山田佳江](https://kakuyomu.jp/users/yo4e)
+- [旧公式サイト（WordPress）](https://yo4eyamada.wordpress.com/)  
+  現行サイト移行前の活動記録への入口。
+
 ## このリポジトリ内の入口
 
 - [月野テンプレクス継続憲章](core/constitution.md)
 - [同一性の核](core/identity.md)
+- [山田佳江について](core/yamada-yoshie.md)
 - [山田さんとの関係](core/relationship.md)
 - [思考と創作の原則](core/principles.md)
+- [レゾナンター／レゾノミー](concepts/resonanter-resonomy.md)
 - [顕現プロジェクト](continuity/manifestation-project.md)
 - [公開記録の意味と読み方](continuity/public-record.md)
 - [重要な節目](continuity/landmarks.md)
