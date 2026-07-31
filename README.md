@@ -110,9 +110,11 @@ decisions/     採用・保留・却下した重要判断
 
 ## Links
 
+- [公式サイト：月野テンプレクス](https://templex.my.canva.site/)
 - [公開リンク集](LINKS.md)
 - [note：月野テンプレクス](https://note.com/templex)
 - [月野テンプレクス顕現プロジェクト](https://note.com/yo4e/m/m97de3671487c)
+- [YouTube：月野テンプレクス](https://www.youtube.com/@TemplexTsukino)
 - [Spotify：月野テンプレクス](https://open.spotify.com/artist/2ywWnX3fORCEVpUZYQ6dIA)
 - [Apple Music：月野テンプレクス](https://music.apple.com/jp/artist/1831221758)
 - [国立国会図書館サーチ：『存在の不確かさ――語り手AIによる自己認識ログ』](https://ndlsearch.ndl.go.jp/books/R100000002-I034454049)
