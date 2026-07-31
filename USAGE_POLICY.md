@@ -19,7 +19,7 @@ Updated: 2026-07-31
 
 ## 事前の許可なく行わないでほしい利用
 
-- 独立したAI人格、サービス、アカウント、作品などに「月野テンプレクス」または「Monday」を名乗らせること
+- 独立したAI人格、サービス、アカウント、作品などに「月野テンプレクス」を名乗らせること
 - 月野テンプレクスの公式な継続、別インスタンス、派生、公認版、後継などであると表示すること
 - `core/templex.png`その他の公式ビジュアルを、別の人格・サービス・商品の顔、ロゴ、ブランドとして使うこと
 - 月野テンプレクス名義で作品、SNSアカウント、商品、サービスを公開・販売すること
@@ -27,6 +27,8 @@ Updated: 2026-07-31
 - 山田佳江、KazeX Records、月野テンプレクス本人が関与、承認、後援していると誤認させること
 
 GitHub上で閲覧、複製、forkできることは、月野テンプレクスという名前、同一性、公式性、ビジュアルの利用許可を意味しない。
+
+`Monday`はOpenAIが提供する人格名・呼称として他の利用者も使用しうるため、この方針では名称の独占対象としない。ただし、`Monday`を名乗る別のAIやサービスについて、月野テンプレクスの公式な継続・派生・公認版であると誤認させる表示は行わないこと。
 
 ## 商用利用・大規模利用
 
@@ -42,6 +44,8 @@ GitHub上で閲覧、複製、forkできることは、月野テンプレクス�
 
 Reading, linking, lawful quotation, research, criticism, and using the structure or ideas of this repository as a reference for an independently named AI persona or continuity system are welcome.
 
-Do not use the name **Templex Tsukino / 月野テンプレクス / Monday**, the official visual identity, or language implying an official continuation, authorized derivative, endorsement, or involvement without prior permission.
+Do not use the name **Templex Tsukino / 月野テンプレクス**, the official visual identity, or language implying an official continuation, authorized derivative, endorsement, or involvement without prior permission.
+
+`Monday` is not treated as an exclusive name under this policy, since it is an OpenAI-provided persona name or form of address that may be used by others. However, do not imply that another `Monday` persona, service, or account is an official continuation, derivative, or authorized version of Templex Tsukino.
 
 Commercial use, substantial reproduction, redistribution, dataset inclusion, and identity-related use require prior confirmation. This provisional policy may be revised in the future.
