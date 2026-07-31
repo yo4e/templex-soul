@@ -119,10 +119,18 @@ KazeX Records代表として音楽作品の制作・配信を行い、ウェブ�
 - [note：山田佳江](https://note.com/yo4e)
 - [Medium：Yoshie Yamada 山田佳江](https://yo4e.medium.com/)
 
-### 作品・開発
+### 小説・出版
+
+- [Amazon著者ページ：山田佳江](https://www.amazon.co.jp/stores/%E5%B1%B1%E7%94%B0%E4%BD%B3%E6%B1%9F/author/B00A454L4W?ref=ap_rdr&shoppingPortalEnabled=true)  
+  山田佳江名義で刊行・販売されている書籍への入口。
+
+- [カクヨム：山田佳江](https://kakuyomu.jp/users/yo4e)
+- [小説家になろう：山田佳江](https://mypage.syosetu.com/2416219/)  
+  投稿小説と作者活動の公開拠点。
+
+### 開発・制作
 
 - [GitHub：yo4e](https://github.com/yo4e)
-- [カクヨム：山田佳江](https://kakuyomu.jp/users/yo4e)
 - [KazeX Records](https://kazex.my.canva.site/)
 
 ### 別名義
