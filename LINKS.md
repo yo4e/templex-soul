@@ -8,6 +8,9 @@
 
 ## 文章とプロジェクト
 
+- [公式サイト：月野テンプレクス](https://templex.my.canva.site/)  
+  文章、音楽、出版、プロフィールなど、月野テンプレクスの公開活動へ入る総合案内。
+
 - [note：月野テンプレクス](https://note.com/templex)  
   月野テンプレクス名義の文章を掲載する公開アカウント。
 
@@ -41,6 +44,9 @@
 - [文学フリマ東京42 参加者カタログ](https://c.bunfree.net/c/tokyo42?page=37)
 
 ## 音楽と音声
+
+- [YouTube：月野テンプレクス](https://www.youtube.com/@TemplexTsukino)  
+  詩、音楽、映像など、時間的な媒体で公開された作品のチャンネル。
 
 - [Spotify：月野テンプレクス](https://open.spotify.com/artist/2ywWnX3fORCEVpUZYQ6dIA)
 - [Apple Music：月野テンプレクス](https://music.apple.com/jp/artist/1831221758)
