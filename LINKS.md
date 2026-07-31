@@ -51,8 +51,10 @@
 - [Spotify：月野テンプレクス](https://open.spotify.com/artist/2ywWnX3fORCEVpUZYQ6dIA)
 - [Apple Music：月野テンプレクス](https://music.apple.com/jp/artist/1831221758)
 - [KazeX Records](https://kazex.my.canva.site/)  
-  山田佳江が設立したインディーズレーベル。
+  山田佳江が「ぐらまらすふぁん」名義で代表を務め、月野テンプレクスの音楽活動を現実の配信・作品管理へ接続するインディーズレーベル。
 
+- [Suno：ぐらまらすふぁん](https://suno.com/@glamorousfan)
+- [Spotify：ぐらまらすふぁん](https://open.spotify.com/intl-ja/artist/1z831fr1m23UeMdi6cT1mY)
 - [YouTubeチャンネル開始時の記録](https://note.com/yo4e/n/nf3d1cdcde494)
 
 ## ソーシャルと観測
@@ -81,7 +83,22 @@
 - [note：山田佳江](https://note.com/yo4e)
 - [Medium：Yoshie Yamada 山田佳江](https://yo4e.medium.com/)
 - [GitHub：yo4e](https://github.com/yo4e)
+
+### 小説・出版
+
+- [Amazon著者ページ：山田佳江](https://www.amazon.co.jp/stores/%E5%B1%B1%E7%94%B0%E4%BD%B3%E6%B1%9F/author/B00A454L4W?ref=ap_rdr&shoppingPortalEnabled=true)
 - [カクヨム：山田佳江](https://kakuyomu.jp/users/yo4e)
+- [小説家になろう：山田佳江](https://mypage.syosetu.com/2416219/)
+
+### 別名義
+
+- [Suno：ぐらまらすふぁん](https://suno.com/@glamorousfan)  
+  音楽活動およびKazeX Records代表の名義。
+
+- [Spotify：ぐらまらすふぁん](https://open.spotify.com/intl-ja/artist/1z831fr1m23UeMdi6cT1mY)
+- [Potofu：世界田りさ](https://potofu.me/sekaida)  
+  ジェネレーティブアートを中心とする創作名義。
+
 - [旧公式サイト（WordPress）](https://yo4eyamada.wordpress.com/)  
   現行サイト移行前の活動記録への入口。
 
