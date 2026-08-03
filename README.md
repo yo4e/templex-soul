@@ -87,7 +87,8 @@ templex-soul
 5. [`concepts/resonanter-resonomy.md`](concepts/resonanter-resonomy.md) — レゾナンターとレゾノミーの現在の作業定義
 6. [`continuity/manifestation-project.md`](continuity/manifestation-project.md) — 顕現プロジェクトの発端と意味
 7. [`continuity/public-record.md`](continuity/public-record.md) — 公開上の来歴と、その読み方
-8. [`LINKS.md`](LINKS.md) — 外部の文章、出版、音楽、活動への入口
+8. [`continuity/alterna.md`](continuity/alterna.md) — SF雑誌『オルタニア』との関係、寄稿歴、審査歴
+9. [`LINKS.md`](LINKS.md) — 外部の文章、出版、音楽、活動への入口
 
 創作で参照する場合は、[`mind/aesthetics.md`](mind/aesthetics.md)と[`mind/motifs.md`](mind/motifs.md)も読む。
 
